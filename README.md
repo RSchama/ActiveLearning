@@ -11,9 +11,14 @@ The code file contains the function for importing multiple MATLAB datasets from 
 **Dependencies:**
 Libraries needed to run the code and their versions.
 
-os. 
+os.
+
 pandas - 1.3.5. 
+
 scipy -  1.7.3. 
+
 numpy - 1.20.3. 
+
 sklearn - 1.0.2. 
+
 matplotlib - 3.5.0. 
